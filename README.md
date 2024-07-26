@@ -43,7 +43,7 @@ Generate your `SEMGREP_API_WEB_TOKEN` from https://semgrep.dev/orgs/-/settings/t
 
 Optionally, you can modify the script to change the default behavior, such as filtering findings based on severity by setting `FILTER_IMPORTANT_FINDINGS` to `True` or `False`.
 
-Usage
+## Usage
 Run the script from the command line, specifying the tag of the projects you want to generate reports for:
 
 `python semgrep_report_generator.py --tag <your_project_tag>`
