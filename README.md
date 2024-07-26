@@ -46,7 +46,7 @@ Optionally, you can modify the script to change the default behavior, such as fi
 ## Usage
 Run the script from the command line, specifying the tag of the projects you want to generate reports for:
 
-`python semgrep_report_generator.py --tag <your_project_tag>`
+`python semgrep_findings_to_csv_html_pdf_all_repos_filter_tag.py --tag <your_project_tag>`
 
 ## The script will perform the following actions:
 
